@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **himanshuv4844@gmail.com**
 
-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PN1-oQuaRxpUsmn46_zzpMri0Bo51dBW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PN1-oQuaRxpUsmn46_zzpMri0Bo51dBW/view?usp=drive_link)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
