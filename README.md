@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Verma</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 "
@@ -8,14 +8,17 @@
 
 - 🌱 I’m currently learning **Nextjs and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Himanshu8303](https://github.com/Himanshu8303)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://himanshu-verma-portfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs, Nodejs**
 
 - 📫 How to reach me **himanshuv4844@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PN1-oQuaRxpUsmn46_zzpMri0Bo51dBW/view?usp=drive_link)
+
+<h3 align="left">Connect with me: </h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/himanshu-verma-6a8a48210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu Verma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
